@@ -1,5 +1,7 @@
 ### Hi Mate, How are you?I hope you are fine!
 ### Welcome to my Github Profile, Enjoy It👋
+Hi, I'm João Victor and I'm a Dev in development haha, I'm currently in the 4th semester of a computer engineering degree, developing some projects to get some hands-on experience in programming and application development, I enjoy both front and back end areas and I'm evolving both to have a full stack formation, be updated on my progress by checking out my projects on the side that I update and implement whenever I learn a new technology.
+#
 <div align="center">
   <a href="https://github.com/JoaoVictorMartinsMedeiros">
   <img align= "left" height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorMartinsMedeiros&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
