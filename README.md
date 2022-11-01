@@ -25,8 +25,7 @@ Hi, I'm João Victor and I'm a Dev in development haha, I'm currently in the 4th
     
  
  
-![Snake animation](https://github.com/MartinsJackal/MartinsJackal/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
   
 
