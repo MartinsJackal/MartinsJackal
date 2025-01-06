@@ -1,6 +1,6 @@
 ### Hi Mate, How are you?I hope you are fine!
 ### Welcome to my Github Profile, Enjoy It👋
-Hi, I'm João Victor and I'm a Dev in development haha, I'm currently in the 4th semester of a computer engineering degree, developing some projects to get some hands-on experience in programming and application development, I enjoy both front and back end areas and I'm evolving both to have a full stack formation, be updated on my progress by checking out my projects on the side that I update and implement whenever I learn a new technology.
+Hi, I'm João Victor, an aspiring AI Software Engineer currently in the 8th semester of my Computer Engineering degree. My focus lies in developing intelligent solutions that bridge the gap between technology and real-world challenges. I’m passionate about exploring machine learning, data analysis, and AI-driven applications, working on projects that enhance my skills in these areas. By continuously integrating the latest advancements in artificial intelligence, I aim to design innovative and impactful software. Follow my journey and check out my projects, which I regularly update with new technologies and techniques to stay at the forefront of AI development.
 #
 <div align="center">
   <a href="https://github.com/MartinsJackal">
